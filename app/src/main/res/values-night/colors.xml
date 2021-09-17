@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_100">#311B92</color>
+    <color name="picker">#ffffff</color>
+    <color name="surface">#000000</color>
+    <color name="surface_alpha">#cc000000</color>
+    <color name="surface_alpha_light">#66000000</color>
+</resources>
